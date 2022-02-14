@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @valentyn1
+- 👀 I’m interested in practicing skills in codding
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on this topic
+- 📫 How to reach me. valentyn.acer@gmail.com
